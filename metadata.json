@@ -1,0 +1,6 @@
+{
+  "name": "India Idea Hub",
+  "description": "Intellectual Property-protected platform to share, securely timestamp, translate, and connect business, tech, and agricultural ideas globally with investors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
