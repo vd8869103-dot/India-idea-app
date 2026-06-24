@@ -3,8 +3,8 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 import {defineConfig} from 'vite';
 
-export default defineConfig(() => {base:'/India-idea-app/'
-  return {
+export default defineConfig(() => {
+  return { base:'/India-idea-app/'  
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
