@@ -7,8 +7,14 @@ import InvestorList from "./components/InvestorList";
 import MessagingPortal from "./components/MessagingPortal";
 import { generateSHA256Mock } from "./components/WatermarkEngine";
 import { BookOpen, Award, TrendingUp, Mail, Building, ShieldCheck, UserCheck, Plus, Search, Sparkles, Languages, AlertCircle, HelpCircle, ArrowUpRight } from "lucide-react";
-
-export default function App() {
+ {export default function App() {
+  return (
+    <div>
+      <h1>India Idea Hub 🚀</h1>
+      <p>Website is working!</p>
+    </div>
+  );
+}
   // -------------------------------------------------------------
   // Current session configuration (Type-in identity simulation)
   // -------------------------------------------------------------
